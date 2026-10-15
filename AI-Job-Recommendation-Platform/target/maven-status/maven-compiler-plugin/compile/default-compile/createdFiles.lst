@@ -1,0 +1,7 @@
+com\shivam\jobs\JobPlatformApplication.class
+com\shivam\jobs\JobController.class
+com\shivam\jobs\JobRepository.class
+com\shivam\jobs\Job.class
+com\shivam\jobs\JobApplication.class
+com\shivam\jobs\SeedData.class
+com\shivam\jobs\JobApplicationRepository.class
